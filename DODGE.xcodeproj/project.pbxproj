@@ -217,20 +217,20 @@
 				TargetAttributes = {
 					8211461D1EE6AF55001FC2EE = {
 						CreatedOnToolsVersion = 8.3.3;
-						LastSwiftMigration = 1010;
+						LastSwiftMigration = 1140;
 						ProvisioningStyle = Automatic;
 					};
 					821146371EE6AF55001FC2EE = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = NXTZ4V4CB9;
-						LastSwiftMigration = 1010;
+						LastSwiftMigration = 1140;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 8211461D1EE6AF55001FC2EE;
 					};
 					821146421EE6AF55001FC2EE = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = NXTZ4V4CB9;
-						LastSwiftMigration = 1010;
+						LastSwiftMigration = 1140;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 8211461D1EE6AF55001FC2EE;
 					};
@@ -471,7 +471,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = robotilus.DODGE;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -485,7 +485,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = robotilus.DODGE;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -500,7 +500,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = robotilus.DODGETests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DODGE.app/DODGE";
 			};
 			name = Debug;
@@ -516,7 +516,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = robotilus.DODGETests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DODGE.app/DODGE";
 			};
 			name = Release;
@@ -531,7 +531,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = robotilus.DODGEUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TEST_TARGET_NAME = DODGE;
 			};
 			name = Debug;
@@ -546,7 +546,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = robotilus.DODGEUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TEST_TARGET_NAME = DODGE;
 			};
 			name = Release;
